@@ -20,7 +20,7 @@ I'm still growing as a developer, but I'm always interested in learning new thin
 
 ## 🔗 Social Media
 
-* 💼 **LinkedIn:** [Hairul Nazuwan](www.linkedin.com/in/hairul-nazuwan-773757304)
+* 💼 **LinkedIn:** [Hairul Nazuwan](www.linkedin.com/in/hairul-nazuwan-773757304 )
 * 🎵 **TikTok:** Come find me there! 👀
 
 ## 🎸 Fun Facts
