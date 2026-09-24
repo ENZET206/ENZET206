@@ -1,35 +1,32 @@
-# Hi, I'm Hairul Nazuwan 👋
+# 👋 Introduction
 
-I'm a Sistem Informasi student at Institut Teknologi Batam.
+Hi! I'm **Hairul Nazuwan**, a 5th-semester **Information Systems student at Institut Teknologi Batam, Indonesia**.
 
-## About Me
+I'm currently learning **Backend Development** and exploring how web applications work behind the scenes, especially in handling data, databases, and server-side logic.
 
-I'm interested in Information Technology, especially Web Development and UI/UX Design. I enjoy learning new things and improving my programming skills.
+I'm still growing as a developer, but I'm always interested in learning new things, trying different technologies, and improving my problem-solving skills.
 
-### Skills
+## 💻 Skills & Tech Stack
 
-* HTML & CSS
-* Basic JavaScript
-* Basic PHP
-* Basic Python
-* Microsoft Office
-* UI/UX Design
+* **PHP** — Basic
+* **MySQL** — Database management and basic queries
+* **PostgreSQL** — Database management and basic queries
+* **Laravel** — Currently learning
+* **Python** — Basic programming
+* **JavaScript** — Basic
+* **HTML & CSS** — Basic web development
+* **Git & GitHub** — Version control and project management
+* **Microsoft Excel & Word** — Data processing and documentation
 
-### Currently Learning
+## 🔗 Social Media
 
-🌱 Web Development
-🎨 UI/UX Design
-💻 Programming
-🤝 Teamwork & Project Management
+* 💼 **LinkedIn:** [Hairul Nazuwan](www.linkedin.com/in/hairul-nazuwan-773757304)
+* 🎵 **TikTok:** Come find me there! 👀
 
-### Fun Fact
+## 🎸 Fun Facts
 
-🎸 I like playing guitar and I also enjoy hanging out with my friends at cafes.
-
-### My Goal
-
-My goal is to keep improving my IT skills and use the knowledge I learn to create useful systems and projects in the future.
-
----
-
-**Thanks for visiting my GitHub! 🚀**
+* 🎸 I enjoy **playing guitar** in my free time.
+* 💻 I'm currently working towards becoming a **Backend Developer**.
+* 🇬🇧 I enjoy **learning English** and I'm currently practicing my English speaking skills to become more confident and fluent.
+* 🧠 I enjoy learning new things, especially when it involves technology.
+* 😂 Honestly, there's probably nothing too interesting about me virtually. It's more fun to meet me in person or just watch my TikTok LIVE hehe.
